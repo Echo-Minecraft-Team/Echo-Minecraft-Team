@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alex, owner of EMH
-- 🌱 I’m currently learning Go
-- 📫 Contact me on a issue page 
+- 👋 Hi, I’m Alex
+- 🌱 I’m currently learning 
+- 📫 Contact me on the issue page 
 - 😄 Pronouns: He/Him
 
-## What I'm doing
-Getting EMH running, creating the backend of stuff
+## What am I working on?
+It's simple, everything and nothing at the same time.
